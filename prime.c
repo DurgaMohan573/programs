@@ -11,4 +11,11 @@ void main()
 			printf("Not A Prime Number");
 		}
 		else
+		{
+			printf("Prime Number");
+		}
+		break;
+	}
+}
+
 
